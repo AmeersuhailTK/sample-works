@@ -1,6 +1,6 @@
 <!-- Background Image -->
 <div style="
-  background: url(<img width="279" height="322" alt="1761324168118" src="https://github.com/user-attachments/assets/ab469030-a8b4-4f3b-9cec-178f73aa0a54" />
+  background: url("1761324168118" />
 ) center/cover no-repeat;
   padding: 80px 20px;
   border-radius: 12px;
