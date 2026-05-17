@@ -12,7 +12,7 @@
        alt="Profile Photo"
        style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid white; margin-bottom: 20px;" />
 
-  <h1 style="font-size: 2.4rem; margin-bottom: 10px;">Hi, I'm Ameer 👋</h1>
+  <h1 style="font-size: 2.4rem; margin-bottom: 10px;">Ameer Suhail TK </h1>
   <p style="font-size: 1.2rem; max-width: 600px; margin: auto;">
     SDET • Test Automation • Quality Engineering • Web & API Testing  
   </p>
@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-I’m an aspiring **Software Development Engineer in Test (SDET)** passionate about  
+**Software Development Engineer in Test (SDET)** passionate about  
 building reliable automation frameworks, improving product quality, and breaking things early so users never have to.
 
 - 🔧 Skilled in **Selenium, Playwright, Postman, RestAssured**
@@ -69,9 +69,9 @@ Cross‑browser UI + API hybrid tests with fixtures and environment configs.
 ---
 
 ## 📬 Contact
-- **Email:** your-email@example.com  
-- **LinkedIn:** your-link  
-- **GitHub:** your-profile  
+- **Email:** ameershail4062@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/ameersuhailtk
+- **GitHub:** https://github.com/AmeersuhailTK  
 
 ---
 
