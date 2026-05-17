@@ -1,3 +1,4 @@
+# Ameer Suhail T K
 # 👨‍💻 Software Development Engineer in Test (SDET)
 
 A detail‑oriented and quality‑driven SDET with a strong foundation in **manual testing**, **test automation**, and **quality engineering principles**.  
@@ -65,9 +66,9 @@ I design scalable automation frameworks, write clean and maintainable test code,
 ---
 
 ## 📬 Contact
-- **LinkedIn:** Your Profile Link  
-- **GitHub:** Your GitHub Link  
-- **Email:** yourname@example.com  
+- **LinkedIn:** Ameersuhailtk  
+- **GitHub:** AmeersuhailTK  
+- **Email:** ameersuhail4062@gmail.com  
 
 ---
 
