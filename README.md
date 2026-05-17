@@ -1,75 +1,78 @@
-# Ameer Suhail T K
-# 👨‍💻 Software Development Engineer in Test (SDET)
+<!-- Background Image -->
+<div style="
+  background: url('https://your-background-image-link.jpg') center/cover no-repeat;
+  padding: 80px 20px;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+">
+  
+  <!-- Profile Photo -->
+  <img src="https://your-profile-photo-link.jpg"
+       alt="Profile Photo"
+       style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid white; margin-bottom: 20px;" />
 
-A detail‑oriented and quality‑driven SDET with a strong foundation in **manual testing**, **test automation**, and **quality engineering principles**.  
-I design scalable automation frameworks, write clean and maintainable test code, and ensure end‑to‑end product reliability across UI, API, and CI/CD pipelines.
+  <h1 style="font-size: 2.4rem; margin-bottom: 10px;">Hi, I'm Ameer 👋</h1>
+  <p style="font-size: 1.2rem; max-width: 600px; margin: auto;">
+    SDET • Test Automation • Quality Engineering • Web & API Testing  
+  </p>
 
----
-
-## 🚀 Core Skills
-
-### 🔹 Programming & Automation
-- Java / Python / JavaScript (OOP, data structures, debugging)
-- Selenium WebDriver, Playwright, Cypress
-- TestNG, JUnit, PyTest
-- Page Object Model (POM), Hybrid & Data‑Driven Frameworks
-
-### 🔹 API Testing & Backend Validation
-- Postman, Newman
-- RestAssured / Playwright API
-- JSON, XML, Schema Validation
-- API automation & integration testing
-
-### 🔹 CI/CD & DevOps Integration
-- Git, GitHub, GitLab
-- Jenkins, GitHub Actions
-- Maven / Gradle build pipelines
-- Docker basics for test environments
-
-### 🔹 QA & Testing Expertise
-- Functional, Regression, Smoke, Sanity Testing
-- Test Case Design (Boundary, Equivalence Partitioning)
-- Defect Reporting & Root‑Cause Analysis
-- Agile/Scrum testing practices
-- Cross‑browser & cross‑platform testing
-
-### 🔹 Tools & Technologies
-- Jira, Azure DevOps, TestRail
-- VS Code, IntelliJ IDEA, Eclipse
-- MySQL / SQL queries for data validation
-- Browser DevTools for debugging
+</div>
 
 ---
 
-## 🧩 Strengths as an SDET
-- Strong testing intuition backed by automation engineering
-- Ability to design scalable, maintainable test frameworks
-- Clear communication with developers & product teams
-- Passion for improving quality through automation
-- Fast learner with a growth mindset
+## 🚀 About Me
+I’m an aspiring **Software Development Engineer in Test (SDET)** passionate about  
+building reliable automation frameworks, improving product quality, and breaking things early so users never have to.
 
+- 🔧 Skilled in **Selenium, Playwright, Postman, RestAssured**
+- 💡 Strong in **manual + automation testing**
+- 🧪 Love building **clean, maintainable test frameworks**
+- 📚 Always learning & improving
 
-### 🔸 **Web Automation Framework (Selenium + Java + TestNG)**
-- Built a modular POM framework with reusable utilities  
-- Integrated with Jenkins for CI execution  
-- Added reporting using Extent Reports  
+---
 
-### 🔸 **API Automation Suite (RestAssured + Java)**
-- Automated CRUD operations  
-- Implemented schema validation & authentication flows  
-- Configured parallel execution  
+## 🧩 Skills
 
-### 🔸 **Playwright End‑to‑End Testing**
-- Implemented UI + API hybrid tests  
-- Added fixtures, custom reporters, and environment configs  
+### 🔹 Automation
+- Selenium WebDriver  
+- Playwright  
+- Cypress  
+- TestNG / JUnit  
+- Page Object Model (POM)
+
+### 🔹 API Testing
+- Postman  
+- RestAssured  
+- JSON / XML  
+- Schema validation  
+
+### 🔹 DevOps & Tools
+- Git / GitHub  
+- Jenkins / GitHub Actions  
+- Maven / Gradle  
+- MySQL  
+
+---
+
+## 📁 Featured Projects
+
+### 🔸 Web Automation Framework
+A modular Selenium + TestNG framework with POM, utilities, and reporting.
+
+### 🔸 API Regression Suite
+Automated REST API tests with schema validation and CI integration.
+
+### 🔸 Playwright E2E Tests
+Cross‑browser UI + API hybrid tests with fixtures and environment configs.
 
 ---
 
 ## 📬 Contact
-- **LinkedIn:** Ameersuhailtk  
-- **GitHub:** AmeersuhailTK  
-- **Email:** ameersuhail4062@gmail.com  
+- **Email:** your-email@example.com  
+- **LinkedIn:** your-link  
+- **GitHub:** your-profile  
 
 ---
 
-> 💡 *This README is optimized for recruiters, hiring managers, and GitHub portfolio visibility. Add your project links to make it even stronger.*
+> 💡 Replace the image links with your own GitHub‑hosted images for a perfect portfolio look.
