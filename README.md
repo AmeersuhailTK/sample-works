@@ -1,69 +1,74 @@
-# Software Testing Project: Test Plan Repository
+# 👨‍💻 Software Development Engineer in Test (SDET)
 
-This repository hosts the comprehensive Test Plan and documentation for ensuring software quality and reliability. The structure follows industry-standard QA methodologies to provide a clear roadmap for the testing lifecycle.
-
-## 📖 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Objectives](#objectives)
-3. [Scope](#scope)
-4. [Approach](#approach)
-5. [Pass / Fail Criteria](#pass--fail-criteria)
-6. [Entry / Exit Criteria](#entry--exit-criteria)
-7. [Deliverables](#deliverables)
-8. [Resource Planning](#resource-planning)
-9. [Schedule](#schedule)
-10. [Risk Assessment](#risk-assessment)
-11. [Mitigation Plan](#mitigation-plan)
-12. [Test Closure](#test-closure)
+A detail‑oriented and quality‑driven SDET with a strong foundation in **manual testing**, **test automation**, and **quality engineering principles**.  
+I design scalable automation frameworks, write clean and maintainable test code, and ensure end‑to‑end product reliability across UI, API, and CI/CD pipelines.
 
 ---
 
-## 🔍 Section Overviews
+## 🚀 Core Skills
 
-### Introduction
-Detailed overview of the project background, the system under test, and the purpose of this documentation.
+### 🔹 Programming & Automation
+- Java / Python / JavaScript (OOP, data structures, debugging)
+- Selenium WebDriver, Playwright, Cypress
+- TestNG, JUnit, PyTest
+- Page Object Model (POM), Hybrid & Data‑Driven Frameworks
 
-### Objectives
-Primary goals of the testing phase, including quality benchmarks and functional verification requirements.
+### 🔹 API Testing & Backend Validation
+- Postman, Newman
+- RestAssured / Playwright API
+- JSON, XML, Schema Validation
+- API automation & integration testing
 
-### Scope
-Definition of features included in the current testing cycle (In-Scope) and those excluded (Out-of-Scope).
+### 🔹 CI/CD & DevOps Integration
+- Git, GitHub, GitLab
+- Jenkins, GitHub Actions
+- Maven / Gradle build pipelines
+- Docker basics for test environments
 
-### Approach
-The methodology applied, covering testing types (Manual/Automation), tools used, and the overall execution strategy.
+### 🔹 QA & Testing Expertise
+- Functional, Regression, Smoke, Sanity Testing
+- Test Case Design (Boundary, Equivalence Partitioning)
+- Defect Reporting & Root‑Cause Analysis
+- Agile/Scrum testing practices
+- Cross‑browser & cross‑platform testing
 
-### Pass / Fail Criteria
-Specific conditions and metrics used to determine the success or failure of individual test cases and features.
-
-### Entry / Exit Criteria
-- **Entry:** Requirements to be met before testing commences (e.g., environment availability).
-- **Exit:** Conditions required to conclude testing (e.g., zero critical defects).
-
-### Deliverables
-List of artifacts produced, such as Test Case documents, Bug Reports, and Test Summary Reports.
-
-### Resource Planning
-Allocation of personnel, hardware, and software tools necessary for successful execution.
-
-### Schedule
-Milestones and timelines for the testing phases, aligned with project delivery dates.
-
-### Risk Assessment
-Identification of potential bottlenecks, such as environment stability or resource constraints.
-
-### Mitigation Plan
-Proactive strategies to address and minimize identified project risks.
-
-### Test Closure
-Final reporting activities, data archiving, and project sign-off procedures.
+### 🔹 Tools & Technologies
+- Jira, Azure DevOps, TestRail
+- VS Code, IntelliJ IDEA, Eclipse
+- MySQL / SQL queries for data validation
+- Browser DevTools for debugging
 
 ---
 
-## 🛠 Usage
-This documentation serves as the primary reference for QA Engineers, Developers, and Project Stakeholders to understand the quality assurance roadmap.
+## 🧩 Strengths as an SDET
+- Strong testing intuition backed by automation engineering
+- Ability to design scalable, maintainable test frameworks
+- Clear communication with developers & product teams
+- Passion for improving quality through automation
+- Fast learner with a growth mindset
+
+
+### 🔸 **Web Automation Framework (Selenium + Java + TestNG)**
+- Built a modular POM framework with reusable utilities  
+- Integrated with Jenkins for CI execution  
+- Added reporting using Extent Reports  
+
+### 🔸 **API Automation Suite (RestAssured + Java)**
+- Automated CRUD operations  
+- Implemented schema validation & authentication flows  
+- Configured parallel execution  
+
+### 🔸 **Playwright End‑to‑End Testing**
+- Implemented UI + API hybrid tests  
+- Added fixtures, custom reporters, and environment configs  
 
 ---
-*Generated for the Test Plan Documentation Project.*
-README.md
-Displaying README.md.
+
+## 📬 Contact
+- **LinkedIn:** Your Profile Link  
+- **GitHub:** Your GitHub Link  
+- **Email:** yourname@example.com  
+
+---
+
+> 💡 *This README is optimized for recruiters, hiring managers, and GitHub portfolio visibility. Add your project links to make it even stronger.*
