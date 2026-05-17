@@ -1,6 +1,6 @@
 <!-- Background Image -->
 <div style="
-  background: url('https://your-background-image-link.jpg') center/cover no-repeat;
+  background: url('www.linkedin.com/in/ameersuhailtk') center/cover no-repeat;
   padding: 80px 20px;
   border-radius: 12px;
   text-align: center;
